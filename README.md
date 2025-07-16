@@ -1,4 +1,4 @@
-# 🧠🎮 Tebak Prompt Gambar Bot Discord
+# 🧠🎮 Bot PromptQuiz
 
 **PromptQuiz** adalah bot Discord interaktif yang menggabungkan teknologi AI dan game kuis. Pemain harus menebak prompt teks yang digunakan untuk membuat gambar yang dihasilkan oleh AI. Siapa cepat, dia dapat poin!
 
